@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Clone project from git by `git clone  https://github.com/HMobaideen/expedia-sde-exercise.git`
    
-   And in case you don't have git installed on your machine, you can just download it from [this repository](https://github.com/HMobaideen/expedia-sde-exercise)
+   **In case** you don't have git installed on your machine, you can just download it from [this repository](https://github.com/HMobaideen/expedia-sde-exercise)
 
 3. Navigate to project folder path.
 
