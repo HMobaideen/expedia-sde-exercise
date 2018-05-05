@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Open command Line.
 
-2. Clone project from git by "git clone  https://github.com/HMobaideen/expedia-sde-exercise.git" 
+2. Clone project from git by `git clone  https://github.com/HMobaideen/expedia-sde-exercise.git`
    
    And in case you don't have git installed on your machine, you can just download it from [this repository](https://github.com/HMobaideen/expedia-sde-exercise)
 
@@ -30,12 +30,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 4. Build Maven using "mvn package". 
 
-5. Start up Tomcat using "java -jar target/dependency/webapp-runner.jar hotels.war".
+5. Start up Tomcat using `java -jar target/dependency/webapp-runner.jar hotels.war`
 
 6. Type project URL in browser as following: 
-   "{ machine domain name | machine IP address | localhost }:8080"
+   `{ machine domain name | machine IP address | localhost }:8080`
    
-   for example: "http://localhost:8080" 
+   for example: `http://localhost:8080` 
    
 
 
@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Assumptions
 
 
-1. Assumed that minTripSartDate and maxTripSartDate must be appended to API URL as following:
+- Assumed that minTripSartDate and maxTripSartDate must be appended to API URL as following:
 
    [maxTripSartDate=2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=2018-05-11)
 
@@ -54,19 +54,20 @@ These instructions will get you a copy of the project up and running on your loc
    
    [maxTripSartDate=:2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2018-05-11)
 
-2. Assumed that search with no parameters will return a result, as API does, maybe it is a better to check if user enter any value to search for.
+- Assumed that search with no parameters will return a result, as API does, maybe it is a better to check if user enter any value to search for.
    
 
 
 ## Issues
 
-```
-<b>Pagination in hotels list component</b><br/>
-used Primeng paginator component (custom component), where the current page of hotels list did not reset to page 1 when set hotels list to a new result.
+
+Pagination in hotels list component
+
+used Primeng paginator component `custom component`, where the current page of hotels list did not reset to page 1 when set hotels list to a new result.
 
 Happened only when use pagination.
 
-``` 
+
 
 ## Author
 
