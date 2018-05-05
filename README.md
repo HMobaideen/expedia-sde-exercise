@@ -2,7 +2,7 @@
  
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://hmobaideen92.herokuapp.com)
 
-[![Tested on Travis-CI]](https://travis-ci.org/HMobaideen/expedia-sde-exercise)
+[Tested on Travis-CI](https://travis-ci.org/HMobaideen/expedia-sde-exercise)
 
 ## Getting Started
 
