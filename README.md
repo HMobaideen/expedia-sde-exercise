@@ -16,7 +16,8 @@ JDK1.8.XX
 
 ```
 
-### Installing
+## Installing
+
 
 1. Open command Line.
 
@@ -40,13 +41,13 @@ JDK1.8.XX
 
 1. Assumed that minTripSartDate and maxTripSartDate must be appended to API URL as following:
 
-   maxTripSartDate=2017-08-03
+   [maxTripSartDate=2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2018-05-11)
 
    As it is produced correct result as explained in the assignment email:
 
    Unlike format provided in assignment email:
    
-   [maxTripSartDate=:2017-08-03](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2017-05-03)
+   [maxTripSartDate=:2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2018-05-11)
 
 2. Assumed that search with no parameters will return a result, as API does, maybe it is a better to check if user enter any value to search for.
    
