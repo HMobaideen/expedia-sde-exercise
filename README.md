@@ -22,7 +22,7 @@ JDK1.8.XX
 1. Open command Line.
 
 2. Clone project from git by "git clone  https://github.com/HMobaideen/expedia-sde-exercise.git" 
-   ,and in case you don't have git installed on your machine, you can just https://github.com/HMobaideen/expedia-sde-exercise
+   ,and in case you don't have git installed on your machine, you can just (https://github.com/HMobaideen/expedia-sde-exercise)
 
 3. Navigate to project folder path.
 
