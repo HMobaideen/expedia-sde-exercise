@@ -10,11 +10,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-```
-Maven 2.5+
-JDK1.8.XX
 
-```
+* [Maven](https://maven.apache.org/download.cgi)
+* [JDK1.8.XX](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+
 
 ### Installing
 
