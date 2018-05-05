@@ -10,21 +10,21 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-```
-* <a href="https://maven.apache.org/download.cgi" target="_blank">Maven</a>
-[Maven](https://maven.apache.org/download.cgi)
-* <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">JDK1.8.XX</a> [JDK1.8.XX](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-```
+
+* [Maven](https://maven.apache.org/download.cgi)
+* [JDK1.8.XX](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
 
 
 
 ### Installing
 
-```
+
 1. Open command Line.
 
 2. Clone project from git by "git clone  https://github.com/HMobaideen/expedia-sde-exercise.git" 
-   ,and in case you don't have git installed on your machine, you can just download it from <a href="https://github.com/HMobaideen/expedia-sde-exercise" target="_blank">this repository</a>[this repository](https://github.com/HMobaideen/expedia-sde-exercise)
+   
+   And in case you don't have git installed on your machine, you can just download it from [this repository](https://github.com/HMobaideen/expedia-sde-exercise)
 
 3. Navigate to project folder path.
 
@@ -33,10 +33,11 @@ These instructions will get you a copy of the project up and running on your loc
 5. Start up Tomcat using "java -jar target/dependency/webapp-runner.jar hotels.war".
 
 6. Type project URL in browser as following: 
-   "{ machine domain name | machine IP address | localhost }:8080"<br/>
+   "{ machine domain name | machine IP address | localhost }:8080"
+   
    for example: "http://localhost:8080" 
    
-```
+
 
 
 
