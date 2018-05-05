@@ -31,7 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 5. Start up Tomcat using "java -jar target/dependency/webapp-runner.jar hotels.war".
 
 6. Type project URL in browser as following: 
-   "{ machine domain name | machine IP address | localhost }:8080"
+   "{ machine domain name | machine IP address | localhost }:8080"<br/>
    for example: "http://localhost:8080" 
 
 
