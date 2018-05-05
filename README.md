@@ -61,17 +61,15 @@ These instructions will get you a copy of the project up and running on your loc
 ## Issues
 
 
-Pagination in hotels list component
+**Pagination**
 
-used Primeng paginator component `custom component`, where the current page of hotels list did not reset to page 1 when set hotels list to a new result.
-
-Happened only when use pagination.
+used Primeng paginator component **Custom Component**, where the current page of hotels list did not reset to page 1 when set hotels list to a new result.
 
 
 
 ## Author
 
-* **Haneen Mobaideen** 
+> **Haneen Mobaideen** 
 
 
 
