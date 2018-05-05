@@ -41,7 +41,7 @@ JDK1.8.XX
 
 1. Assumed that minTripSartDate and maxTripSartDate must be appended to API URL as following:
 
-   [maxTripSartDate=2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2018-05-11)
+   [maxTripSartDate=2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=2018-05-11)
 
    As it is produced correct result as explained in the assignment email:
 
