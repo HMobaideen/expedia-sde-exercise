@@ -1,4 +1,4 @@
-# Expedia SDE Exercise - Hotel Finder
+# Expedia SDE Exercise - Hotels Finder
  
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://hmobaideen92.herokuapp.com)
 
