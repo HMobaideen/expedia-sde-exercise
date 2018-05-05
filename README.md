@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 
    As it is produced correct result as explained in the assignment email:
 
-   Unlike format provided in assignment email:
+   Unlike date format which is provided in assignment email:
    
    [maxTripSartDate=:2018-05-11](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2018-05-11)
 
