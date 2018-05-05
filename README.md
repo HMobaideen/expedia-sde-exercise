@@ -18,11 +18,10 @@ JDK1.8.XX
 
 ### Installing
 
-```
 1. Open command Line.
 
 2. Clone project from git by "git clone  https://github.com/HMobaideen/expedia-sde-exercise.git" 
-   ,and in case you don't have git installed on your machine, you can just ```https://github.com/HMobaideen/expedia-sde-exercise```
+   ,and in case you don't have git installed on your machine, you can just download it from [this repository](https://github.com/HMobaideen/expedia-sde-exercise)
 
 3. Navigate to project folder path.
 
@@ -34,11 +33,11 @@ JDK1.8.XX
    "{ machine domin name | machine IP address | localhost }:8080"
    for example: "http://localhost:8080" 
 
-``` 
+
 
 ## Assumptions
 
-```
+
 1. Assumed that minTripSartDate and maxTripSartDate must be appended to API URL as following:
 
    maxTripSartDate=2017-08-03
@@ -47,11 +46,11 @@ JDK1.8.XX
 
    Unlike format provided in assignment email:
    
-   maxTripSartDate=:2017-08-03
+   [maxTripSartDate=:2017-08-03](https://offersvc.expedia.com/offers/v2/getOffers?scenario=deal-finder&page=foo&uid=foo&productType=Hotel&destinationCity=New%20Orleans&minTripStartDate=:2017-05-03)
 
 2. Assumed that search with no parameters will return a result, as API does, maybe it is a better to check if user enter any value to search for.
    
-```
+
 
 ## Issues
 
