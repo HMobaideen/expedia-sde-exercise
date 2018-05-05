@@ -16,7 +16,7 @@ JDK1.8.XX
 
 ```
 
-## Installing
+### Installing
 
 
 1. Open command Line.
