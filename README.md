@@ -63,8 +63,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **Pagination**
 
-used Primeng paginator component **Custom Component**, where the current page of hotels list did not reset to page 1 when set hotels list to a new result.
-
+> used Primeng paginator component **Custom Component**, where the current page of hotels list will be the last navigated page, when search a new result.
 
 
 ## Author
