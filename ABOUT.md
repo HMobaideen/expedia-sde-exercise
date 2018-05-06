@@ -17,24 +17,24 @@
 
 
 ## Steps To Getting Project Done
-1. Information Gathering and planning.
-   > Identifying, Analyzing, and Selecting Third Party Vendors
-2. Development
-   - RESTifying Backend Business
+- Information Gathering and planning.
+   > Identifying, Analyzing, and Selecting programming language and frameworks.
+- Development
+   1. RESTifying Backend Business
      > Programming REST web services and their business as Maven project.
-   - Designing UI Business 
+   2. Designing UI Business 
      > Programming  Angular services `TypeScript` and it's components, and styling using bootstrap 3.
-3. Testing 
+- Testing 
    >  testing the complete functionality and that web page is optimized to be viewed properly. 
-4. Maintenance
+- Maintenance
    > Get back to development if one of test scenarios fails.
-5. Merging Angular application inside maven project.
+- Merging Angular application inside maven project.
    > Building angular application will provide bundled files to be injected in maven project.
-6. upload project to GitHub.
-7. Deploy Git repository project on Heroku.
-8. Setting the site up in a local sandbox
-   > applied Installation steps, which are provided in [README.md] (/README.md).  
-7.Testing project on Travis-CI.
+- upload project to GitHub.
+- Deploy Git repository project on Heroku.
+- Setting the site up in a local sandbox
+   > applied Installation steps, which are provided in [README.md] (docs/README.md).  
+- Testing project on Travis-CI.
 
 
 ## Experince in selected vendors
