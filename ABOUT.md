@@ -10,8 +10,7 @@
   - Angular 5
   - Boostrap 3
   
-> Selecting these language and frameworks because of having Knowlege and experiance with them, REST API is simple to deal with,
- and Angular provides the ability to handle complex JavaScript functionality in simple way.
+> Selecting these language and frameworks because of having **GOOD Knowlege and experiance** with them, REST API is simple to    deal with, and Angular provides the ability to handle complex JavaScript functionality in simple way.
 
   
 
@@ -37,9 +36,6 @@
 - Testing project on Travis-CI.
 
 
-## Experince in selected vendors
-
-```Intermediate```
 
 ## Learning By Doing
 
