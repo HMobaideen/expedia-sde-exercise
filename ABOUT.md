@@ -15,6 +15,8 @@
   
 
 
+
+
 ## Steps To Getting Project Done
 - Information Gathering and planning.
    > Identifying, Analyzing, and Selecting programming language and frameworks.
@@ -22,7 +24,7 @@
    1. RESTifying Backend Business
      > Programming REST web services and their business as Maven project.
    2. Designing UI Business 
-     > Programming  Angular services `TypeScript` and it's components, and styling using bootstrap 3.
+     > Programming  Angular services and it's components, and styling using bootstrap 3.
 - Testing 
    >  testing the complete functionality and that web page is optimized to be viewed properly. 
 - Maintenance
@@ -34,6 +36,9 @@
 - Setting the site up in a local sandbox
    > applied Installation steps, which are provided in [README.md] (docs/README.md).  
 - Testing project on Travis-CI.
+
+
+
 
 
 
