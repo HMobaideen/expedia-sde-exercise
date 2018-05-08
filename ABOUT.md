@@ -35,7 +35,7 @@
 - upload project to GitHub.
 - Deploy Git repository project on Heroku.
 - Setting the site up in a local sandbox
-   > applied Installation steps, which are provided in [README.md] (docs/README.md).  
+   > applied Installation steps, which are provided in [README.md](docs/README.md).  
 - Testing project on Travis-CI.
 
 
