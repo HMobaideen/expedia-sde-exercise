@@ -31,7 +31,7 @@
    > Get back to development if one of test scenarios fails.
 - Merging Angular application inside maven project.
    > Building angular application will provide bundled files to be injected into maven project.
-   > You can find bundled files in [folder](docs/src/main/webapp)
+   > You can find bundled files in [folder](https://github.com/HMobaideen/expedia-sde-exercise/tree/master/src/main/webapp)
 - upload project to GitHub.
 - Deploy Git repository project on Heroku.
 - Setting the site up in a local sandbox
