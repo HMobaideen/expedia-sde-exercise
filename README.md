@@ -2,6 +2,8 @@
  
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://hmobaideen92.herokuapp.com)
 
+[Check Application Views](https://github.com/HMobaideen/expedia-sde-exercise-views)
+
 [Tested on Travis-CI](https://travis-ci.org/HMobaideen/expedia-sde-exercise/branches)
 
 ## Getting Started
