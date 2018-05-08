@@ -30,7 +30,8 @@
 - Maintenance
    > Get back to development if one of test scenarios fails.
 - Merging Angular application inside maven project.
-   > Building angular application will provide bundled files to be injected in maven project.
+   > Building angular application will provide bundled files to be injected into maven project.
+   > You can find bundled files in [folder](docs/src/webapp)
 - upload project to GitHub.
 - Deploy Git repository project on Heroku.
 - Setting the site up in a local sandbox
