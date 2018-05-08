@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. Navigate to project folder path.
 
-4. Build Maven using "mvn package". 
+4. Build Maven using `mvn package` 
 
 5. Start up Tomcat using `java -jar target/dependency/webapp-runner.jar hotels.war`
 
